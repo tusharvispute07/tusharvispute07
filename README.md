@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Vispute</h1>
 <h3 align="center">Data Science Aspirant</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 

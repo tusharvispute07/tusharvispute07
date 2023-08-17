@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tushar Vispute</h1>
 <h3 align="center">Data Science Aspirant</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
-- 💬 Ask me about **Machine Learning, Statistics**
+- 💬 Ask me about **Machine Learning, Statistics, Web Development**
 
 - 📫 How to reach me **tusharvispute07@gmail.com**
 
